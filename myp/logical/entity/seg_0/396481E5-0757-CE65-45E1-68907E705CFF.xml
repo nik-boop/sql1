@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="396481E5-0757-CE65-45E1-68907E705CFF" name="stock_parts">
+<createdBy>AndroidS</createdBy>
+<createdTime>2021-12-24 11:17:58 UTC</createdTime>
+<ownerDesignName>myp</ownerDesignName>
+<engineerTo>
+<item key="566B122A-D5D7-7307-E739-E68E8CFB90F0" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

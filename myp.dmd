@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="myp" id="3FBBC632-E14D-2FF5-7422-96B4A433E1B0" version="3.5">
+<createdBy>AndroidS</createdBy>
+<createdTime>2021-12-24 11:00:08 UTC</createdTime>
+<ownerDesignName>myp</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3FBBC632-E14D-2FF5-7422-96B4A433E1B0</designId>
+</OSDM_Design>
